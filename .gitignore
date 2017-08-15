@@ -1,0 +1,8 @@
+.idea
+node_modules
+build
+.vagrant
+/index.html
+sftp-config.json
+/ansible/playbook.retry
+.DS_Store
